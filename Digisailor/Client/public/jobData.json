@@ -1,0 +1,50 @@
+[
+  {
+    "roleName": "Full Stack Developer",
+    "companyName": "ElemenTalent Technologies Pvt Ltd.",
+    "location": "Chennai, Tamil Nadu",
+    "salary": "300,000 - 800,000 per year",
+    "employmentType": "Full-time ",
+    "shift": "Remote/Hybrid",
+    "description": "Year of Experience as a full stack developer: 2-5 years. Gather requirements from the project owner, perform a feasibility study, Do POC for the required...",
+    "postedDate": "1 week ago"
+  },
+  {
+    "roleName": "Backend Developer",
+    "companyName": "ElemenTalent Technologies Pvt Ltd.",
+    "location": "Chennai, Tamil Nadu",
+    "salary": "400,000 - 900,000 per year",
+    "employmentType": "Full-time",
+    "shift": "Remote/Hybrid",
+    "description": "Backend developer with expertise in Node.js and MongoDB. Minimum 3 years of experience required.",
+    "postedDate": "2 weeks ago"
+  },
+  {
+    "roleName": "Frontend Developer",
+    "companyName": "ElemenTalent Technologies Pvt Ltd.",
+    "location": "Chennai, Tamil Nadu",
+    "salary": "350,000 - 750,000 per year",
+    "employmentType": "Full-time ",
+    "shift": "Remote/Hybrid",
+    "description": "Frontend developer with proficiency in React and responsive web design. 2-4 years of experience preferred.",
+    "postedDate": "3 weeks ago"
+  },
+
+  {
+    "title": "Full Stack Developer",
+    "type": "Full-time",
+    "employer": "Employer",
+    "location": "Chennai, Tamil Nadu",
+    "salary": "₹300,000 - 800,000 per year",
+    "experience": "2-5 years",
+    "description": "Year of Experience as a full stack developer: 2-5 years. Gather requirements from the project owner, perform a feasibility study, Do POC for the required...",
+    "growthOpportunity": "Year of Experience as a full stack developer: 2-5 years. Gather requirements from the project owner, perform a feasibility study, Do POC for the required..."
+  }
+
+
+]
+
+
+
+
+
